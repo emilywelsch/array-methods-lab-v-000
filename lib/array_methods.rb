@@ -3,7 +3,7 @@ def array
 end
 
 def using_include(array, element)
-  array.include?(2)
+  array.include?("2")
 end
 
 def using_sort(array)
