@@ -1,5 +1,5 @@
 def array
-  [0,1,2,3]
+  [0, 1, 2, 3]
 end
 
 def using_include(array, element)
